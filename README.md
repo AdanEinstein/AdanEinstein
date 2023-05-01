@@ -7,7 +7,7 @@ Profession: Software Developer Junior
 
 ## 🛠️ Hard skills:
 ## Languages:
-![Linguagem Java](https://img.shields.io/badge/-Java-orange) - ![Linguagem C#](https://img.shields.io/badge/-C%23-green)
+![Linguagem Java](https://img.shields.io/badge/-Java-orange) - ![Linguagem C#](https://img.shields.io/badge/-C%23-green) - ![Linguagem Python](https://img.shields.io/badge/-Python-blue)
 
 ![Linguagem JavaScript](https://img.shields.io/badge/-JavaScript-yellow) - ![Linguagem TypeScript](https://img.shields.io/badge/-TypeScript-blue) - ![NodeJs](https://img.shields.io/badge/-NodeJs-success)
 
