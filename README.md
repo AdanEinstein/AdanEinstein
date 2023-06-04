@@ -15,4 +15,4 @@ Profession: Software Developer Junior
 
 ![Linguagem SQL](https://img.shields.io/badge/-SQL-red) - ![Linguagem NoSQL](https://img.shields.io/badge/-NoSQL-lightgrey)
 ## Frameworks / Libs:
-![ReactJs](https://img.shields.io/badge/-ReactJs-blue) - ![Angular](https://img.shields.io/badge/-Angular-red) - ![VueJs](https://img.shields.io/badge/-VueJs-green)
+![ReactJs](https://img.shields.io/badge/-ReactJs-blue) - ![React Native](https://img.shields.io/badge/-ReactNative-blueviolet) - ![NextJS](https://img.shields.io/badge/-NextJS-orange) - ![Angular](https://img.shields.io/badge/-Angular-red) - ![VueJs](https://img.shields.io/badge/-VueJs-green)
