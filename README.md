@@ -2,7 +2,7 @@
 
 Age: 21
 
-Profession: Software Developer Junior
+Occupation: Software Developer Junior
 
 ## 🛠️ Hard skills:
 ## Languages:
