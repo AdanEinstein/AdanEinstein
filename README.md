@@ -1,8 +1,8 @@
 ## Adan Einstein ###
 
-Age: 21
+Age: 22
 
-Occupation: Software Developer Junior
+Occupation: Software Developer
 
 ## 🛠️ Hard skills:
 ## Languages:
